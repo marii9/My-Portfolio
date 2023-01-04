@@ -5,6 +5,7 @@
 Further more, ive have also changed the screen view so that the user viewing can seeing the portfolio whichever device they so happen to be using.
 
 
-![Web capture_17-11-2022_171053_](https://user-images.githubusercontent.com/116024194/202570996-31a963ad-f067-4a50-bcd9-5178bbbd2b75.jpeg)
+
+![web222](https://user-images.githubusercontent.com/116024194/210477513-49e54e2e-7a82-466a-b6d1-2c6393c12532.jpeg)
 
 https://marii9.github.io/My-Portfolio/
